@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Gautam Singh</h1>  
-<h3 align="center">AI/ML Engineer | AI/ML Enthusiast</h3>  
+<h3 align="center">AI/ML Enthusiast</h3>  
 
 - 🧑‍💻 Currently working as an AI/ML Engineer 🤖, involved in building innovative AI/ML solutions for the legal domain ⚖️.  
 - 👯 I’m looking to collaborate on AI-related projects 🚀.  
