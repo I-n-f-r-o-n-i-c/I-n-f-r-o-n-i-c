@@ -7,7 +7,7 @@
       <ul>
         <li>🧑‍💻 Currently working as an AI/ML Engineer 🤖, involved in building innovative AI/ML solutions for the legal domain ⚖️.</li>
         <li>👯 I’m looking to collaborate on AI-related projects 🚀.</li>
-        <li>📄 Know more about my experiences: <a href="https://drive.google.com/file/d/1bW8lQIAWfV6pcwcoX-bMgaaVugOOwo2Y/view?usp=sharing" target="_blank">Resume</a></li>
+        <li>📄 Know more about my experiences: <a href="https://drive.google.com/file/d/1jg5rcObo2AzKdfQgiA1Ps0TDISigZ2Vl/view?usp=sharing" target="_blank">Resume</a></li>
       </ul>
     </td>
     <td>
